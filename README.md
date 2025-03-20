@@ -8,7 +8,7 @@ hosted on
 
 > https://evanyeager.github.io
 
-## To clone and start dotnet server:
+## To clone and start .NET server:
 
 `git clone https://github.com/EvanYeager/asp-login.git`
 
