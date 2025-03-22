@@ -14,4 +14,6 @@ hosted on
 
 `cd asp-login`
 
+`dotnet dev-certs https --trust` - then click yes on the dialogue popup window; then
+
 `dotnet run`
